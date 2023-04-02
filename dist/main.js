@@ -1,0 +1,2 @@
+!function(){var e={961:function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),Object.defineProperty(t,"answer",{enumerable:!0,get:function(){return n}});let n=42},887:function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=r("961");document.getElementById("root").innerHTML=`The answer to the universe is ${n.answer}.`}},t={};!function r(n){var o=t[n];if(void 0!==o)return o.exports;var u=t[n]={exports:{}};return e[n](u,u.exports,r),u.exports}("887")}();
+//# sourceMappingURL=main.js.map
