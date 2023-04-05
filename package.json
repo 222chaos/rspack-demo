@@ -12,6 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@2chaos/webpack_react_todolist": "^1.0.22",
     "antd": "^5.4.0",
     "esbuild": "0.17.15",
     "react": "^18.2.0",
