@@ -30,7 +30,7 @@ function App() {
   const [clickPageNum, setClickPageNum] = useState<number>();
   let total = 0;
   const [todo1, setTode] = useState(() => {
-    const todoList = [];
+    const todoList: any = [];
     for (let index = 0; index < 100; index++) {
       total++;
       todoList.push({
